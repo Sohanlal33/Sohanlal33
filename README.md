@@ -1,5 +1,3 @@
-![Profile Views](https://profile-counter.glitch.me/{SohanlalChaudhary}/)
-
 - <head>👋 Hi, I’m @Sohanlal Chaudhary </head>
 - 🌱 I’m currently learning Artificial Intelligence And Machine Learning 
 - 📫 How to reach me sohanlalchaudhary10@gmail.com
