@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanlal33&label=Profile%20views&color=0e75b6&style=flat" alt="sohanlal33" /> </p>
 
-- 🌱 I am currently learning **Artificial Intelligence,Machine Exploring**
+- 🌱 I am currently learning & exlporing **Artificial Intelligence,Machine Learning**
 
 - 📫 How to reach me **sohanlalchaudhary10@gmail.com**
 
