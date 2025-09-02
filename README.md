@@ -18,8 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohanlal33&show_icons=true&locale=en" alt="sohanlal33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanlal33&" alt="sohanlal33" /></p>
-
 <!---
 Sohanlal33/Sohanlal33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
